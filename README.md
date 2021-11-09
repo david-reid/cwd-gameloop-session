@@ -5,7 +5,7 @@
 From the terminal type the following...
 
 ```bash
-git clone https://github.com/david-reid/cwd-vanilla-gameloop-js.git
+git clone https://github.com/david-reid/cwd-gameloop-session.git
 ```
 
 On clone completion, project is ready to launch.
